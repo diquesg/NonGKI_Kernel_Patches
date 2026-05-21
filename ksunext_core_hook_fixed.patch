@@ -1,5 +1,5 @@
---- a/kernel/core_hook.c	2025-02-22 11:31:27.552248859 +0000
-+++ b/kernel/core_hook.c	2025-02-22 11:41:36.182150623 +0000
+--- a/drivers/kernelsu/core_hook.c	2025-02-22 11:31:27.552248859 +0000
++++ b/drivers/kernelsu/core_hook.c	2025-02-22 11:41:36.182150623 +0000
 @@ -1052,45 +1052,50 @@
  		current->pid);
  #endif
